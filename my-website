@@ -301,7 +301,7 @@
 <body>
     <header class="header">
         <div class="avatar-container">
-            <img src="./pic/pic01.JPG" alt="Hope zhang" class="avatar">
+            <img src="pic01.JPG" alt="Hope zhang" class="avatar">
         </div>
         <div class="identity">
             <p>发现美，创造美，留下美</p>
